@@ -1,0 +1,13 @@
+{
+    "name" : "factuino",
+    "version" : "0.0.0",
+    "title" : "Factuino",
+    "description" : "Yet another processor for Factorio",
+    "author" : "anonhostpi",
+    "contact" : "anon@hostpi.onmicrosoft.com",
+    "factorio_version" : "2.0",
+    "dependencies" : [
+        "base >= 2.0.0",
+        "flib"
+    ]
+}
